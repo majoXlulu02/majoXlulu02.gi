@@ -1,0 +1,43 @@
+﻿body {
+    background-image: url(Imagenes/Basket.jfif);
+    Border:double;
+    border-block-color:orangered;
+}
+div {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium 25px;
+    color: aquamarine;
+    
+}
+.A{
+color:blue;
+font-size:55px;
+font-family:'Times New Roman', Times, serif;
+}
+.B{
+color:black;
+font-size:55px;
+font-family:'Times New Roman', Times, serif;
+}
+.C{
+color:green;
+font-size:55px;
+font-family:'Times New Roman', Times, serif
+}
+.D {
+    color:blue;
+    font-size: 55px;
+    font-family:'Times New Roman', Times, serif
+}
+
+.E {
+    color: black;
+    font-size: 55px;
+    font-family:'Times New Roman', Times, serif
+}
+
+.F {
+    color: green;
+    font-size: 55px;
+    font-family:'Times New Roman', Times, serif
+}
